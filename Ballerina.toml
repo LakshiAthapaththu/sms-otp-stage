@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "register_events"
+  org = "lakshi"
+  version = "0.1.0"
+
